@@ -6,3 +6,5 @@ The assignment is inspired by the book Allen B. The Little Book of Semaphores.
 
 ## Evaluation:
 12/15
+
+#### The project is for inspiration only, copying the code is strongly discouraged.
